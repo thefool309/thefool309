@@ -1,7 +1,7 @@
 # Velma
 
 - ### Skills
-    ![The C++ logo](./img/C++LogoVector.png) ![Java logo](./img/JAVALogoVector.png) ![Python logo](./img/Python-logo-notext.png)
+    ![The C++ logo](./img/C++LogoVector.png) ![Java logo](./img/JAVALogoVector.png) ![Python logo](./img/Python-logo-notext.png) ![git logo](./img/Git-Icon-1788C.png)
     
 <!--
 **thefool309/thefool309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
