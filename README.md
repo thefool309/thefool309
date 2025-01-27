@@ -1,5 +1,8 @@
-## Hi there 👋
+# Velma
 
+- ### Skills
+    ![The C++ logo](./img/CLogoVector.png) ![Java logo](./img/JAVALogoVector.png)
+    
 <!--
 **thefool309/thefool309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+
 -->
