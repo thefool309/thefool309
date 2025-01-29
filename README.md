@@ -5,8 +5,8 @@
 
 ### Stats
 
-[![Velma's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefool309&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefool309&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Velma's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefool309&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefool309&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://hit.yhype.me/github/profile?account_id=104532635)
 <!--
