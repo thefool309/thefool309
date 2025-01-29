@@ -13,7 +13,7 @@ I’m currently working on tutorials and documentation for TrueNAS to assist a f
 
 ### Skills and Proficiencies
 
-![The C++ logo](./img/C++LogoVector.png) ![Java logo](./img/JAVALogoVector.png) ![Python logo](./img/Python-logo-notext.png) ![git logo](./img/Git-Icon-1788C.png) ![picture of linux mascot tux](./img/Tux.png)
+![The C++ logo](./img/C++LogoVector.png) ![Java logo](./img/JAVALogoVector.png) ![Python logo](./img/Python-logo-notext.png) ![git logo](./img/Git-Icon-1788C.png) ![picture of linux mascot tux](./img/Tux.png) ![windows logo](./img/windows.png)
 
 ### Stats
 
