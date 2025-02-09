@@ -3,7 +3,7 @@
 ### About Me
 Hi! I'm Velma(She/Her) and I'm a Computer Science Student and Software Developer.
 
-I love Linux, C++, and I'm really into how software development tools are created and how they can make coding easier and more efficient.
+I love Linux, and C++. I'm really into how software development tools are created and how they can make coding easier and more efficient.
 
 I’m currently working on tutorials and documentation for TrueNAS to assist a friend of mine in compiling research for setting up their new system.
 
