@@ -12,7 +12,7 @@ I’m currently working on [pi_sage](https://github.com/thefool309/pi_Sage/tree/
 [![A picture of mail](./img/email.png)](mailto:velmadev043@gmail.com) 
 
 ### [Public PGP Key](https://keys.openpgp.org/search?q=velmadev043@gmail.com)
-<h4>If it's not encrypted I put it on lower priority</h4>
+<h4>If an email is not encrypted I put it on lower priority</h4>
 
 ## Skills and Proficiencies
 
