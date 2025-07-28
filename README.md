@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm Velma(She/Her) and I'm a Computer Science Student and Software Developer.
+Hi! I'm thefool309 and I'm a Computer Science Student and Software Developer.
 
 I love Linux, and C++. I'm into Software Development Tools, Cybersecurity, and Web Development. I am proficient in C, C++, C#, and Java; with additional experience in TypeScript, JavaScript, HTML, CSS, Python, and MIPS Assembly.
 
