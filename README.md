@@ -6,7 +6,7 @@ Hi! I'm thefool309 and I'm a Computer Science Student and Software Developer.
 
 I love Linux, and C++. I'm into Software Development Tools, Cybersecurity, and Web Development. I am proficient in C, C++, C#, and Java; with additional experience in TypeScript, JavaScript, HTML, CSS, Python, and MIPS Assembly.
 
-I’m currently working on [pi_sage](https://github.com/thefool309/pi_Sage/tree/velma-dev) A network scanning tool for use with the Raspberry Pi.
+I’m currently working on [pi_sage](https://github.com/thefool309/pi_Sage/) A network scanning tool for use with the Raspberry Pi.
 
 ## Contact Me
 
