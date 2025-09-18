@@ -20,6 +20,4 @@ I’m currently working on [pi_sage](https://github.com/thefool309/pi_Sage/) A n
 <!--TODO: add logos for C#, and possibly Typescript??? IDK if I feel comfortable with typescript enough to say I know Typescript. I could definitely put C#-->
 ![The C++ logo](./img/C++LogoVector.png) ![Csharp logo](./img/c-sharp_134x151.png) ![Java logo](./img/JAVALogoVector.png) ![Python logo](./img/Python-logo-notext.png) ![git logo](./img/Git-Icon-1788C.png) ![picture of linux mascot tux](./img/Tux.png) ![windows logo](./img/windows.png)
 
-## Stats
-
 ![Counter](https://hit.yhype.me/github/profile?account_id=104532635)
