@@ -22,7 +22,4 @@ I’m currently working on [pi_sage](https://github.com/thefool309/pi_Sage/) A n
 
 ## Stats
 
-[![Velma's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefool309&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Velma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefool309&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Counter](https://hit.yhype.me/github/profile?account_id=104532635)
