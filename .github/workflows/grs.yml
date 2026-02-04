@@ -13,14 +13,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
-          path: img/stats.svg
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          path: img/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
+      
       - name: Commit cards
         run: |
           git config user.name "github-actions"
