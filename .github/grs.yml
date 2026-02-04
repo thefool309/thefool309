@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   push: 
-    - main
+    branches: [ "main" ]
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
