@@ -26,4 +26,4 @@ I’m currently working on [civ-sculptor](https://github.com/thefool309/civ-scul
 
 ![Stats](./img/stats.svg)
 
-![Pin-Card](./img/pin-readme-tools-github-readme-stats.svg)
+![Pin-Card](./img/pin-civ-sculptor.svg)

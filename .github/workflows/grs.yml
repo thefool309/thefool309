@@ -26,7 +26,7 @@ jobs:
         with:
           card: pin
           options: username=thefool309&repo=civ-sculptor
-          path: img/pin-readme-tools-github-readme-stats.svg
+          path: img/pin-civ-sculptor.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Commit cards
