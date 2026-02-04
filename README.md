@@ -24,4 +24,4 @@ I’m currently working on [civ-sculptor](https://github.com/thefool309/civ-scul
 
 ![Counter](https://hit.yhype.me/github/profile?account_id=104532635)
 
-![Stats](./img/stats.svg)
+![Stats](./img/top-langs.svg)
