@@ -23,3 +23,5 @@ I’m currently working on [civ-sculptor](https://github.com/thefool309/civ-scul
 ![The C++ logo](./img/C++LogoVector.png) ![Python logo](./img/Python-logo-notext.png) ![Kotlin Logo](./img/Kotlin.png)![Java logo](./img/JAVALogoVector.png) ![git logo](./img/Git-Icon-1788C.png) ![picture of linux mascot tux](./img/Tux.png) ![windows logo](./img/windows.png)
 
 ![Counter](https://hit.yhype.me/github/profile?account_id=104532635)
+
+![Stats](./img/stats.svg)
